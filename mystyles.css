@@ -1,0 +1,34 @@
+.newtext {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+
+}
+.newheader {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 11em;
+  margin: 0;
+  transform: skew(-15deg);
+  letter-spacing: 0.03em;
+}
+
+.italic {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style:italic
+}
+
+.bold {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold ;
+  color: black;
+}
+
+li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:darkgrey;
+}
+

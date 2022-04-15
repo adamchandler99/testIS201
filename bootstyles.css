@@ -1,0 +1,70 @@
+h4 {
+text-align: center;
+text-align: right;
+color: black;
+
+}
+h1 {
+text-align: center;
+color: black;
+size: 40px;
+}
+
+.all {
+  border: solid 2px black;
+  position: absolute;
+  
+}
+
+body {
+  color: rgb(57, 57, 57);
+}
+
+.header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  background-color: blanchedalmond;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  height: 150px;
+}
+
+.mainbody {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: gainsboro;
+  top: 164px;
+  left: 5px;
+  right: 5px;
+  text-align: center;
+}
+
+.bottom {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:blanchedalmond;
+  top: 3000px;
+  left: 5px;
+  right: 5px;
+  height: 100px;
+  text-align: center;
+}
+
+table {
+  border: black 4px;
+}
+
+.tableau {
+  width: 500px;
+  height: 500px;
+  border: 3px black;
+}
+
+p {
+  font-size: large;
+  
+}
+
+.p2 {
+  font-size: large;
+  text-decoration: underline;
+}
